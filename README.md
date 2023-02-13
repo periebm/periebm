@@ -1,16 +1,15 @@
 <h1 align="">Hi, I'm Péricles Mendes</h1>
-<h3 align="">Student.</h3>
+<h3 align="">Currently working as a Hardware Developer, studying to work as a Software Developer!</h3>
 <br>
 <p><img align="right" src="https://github.com/periebm/periebm/blob/main/animation_500_kxa883sd.gif" alt="peri-code" width=40% height=40% /></p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 📚 I’m currently studying Software Development (ReactJS, NodeJS, Typescript, SQL..) on Driven Education's Web Development Full Stack course.
 
-- 📫 Reach me *periclesebmendes@gmail.com**
+- ⚡ As for today I'm working as a Hardware Developer (Graduated in Electrical Engineering). My activities includes drawing PCBs, programming in C and building electronic circuits of all sorts.
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 📫 Reach me in *periclesebmendes@gmail.com**
 
 <br>
-
 
 # 💻 Languages and Tools:
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/linux.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
