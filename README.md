@@ -1,7 +1,7 @@
 <h1 align="">Hi, I'm Péricles Mendes</h1>
 <h3 align="">Student.</h3>
 <br>
-<p><img align="right" src="https://github.com/periebm/periebm/blob/main/animation_500_kxa883sd.gif" alt="peri-code" width=70% height=70% /></p>
+<p><img align="right" src="https://github.com/periebm/periebm/blob/main/animation_500_kxa883sd.gif" alt="peri-code" width=40% height=40% /></p>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
