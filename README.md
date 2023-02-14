@@ -7,7 +7,7 @@
 
 - ⚡ As for today I'm working as a Hardware Developer (Graduated in Electrical Engineering). My activities includes drawing PCBs, programming in C and building electronic circuits of all sorts.
 
-- 📫 Reach me in *periclesebmendes@gmail.com**
+- 📫 Reach me in *periclesebmendes@gmail.com*
 
 <br>
 
