@@ -1,18 +1,18 @@
 <h1 align="">Hi, I'm Péricles Mendes</h1>
-<h3 align="">Currently working as a Hardware Developer, studying to work as a Software Developer!</h3>
+<h3 align="">Looking to work exclusively as a Software Developer, currently working as a Hardware Developer.</h3>
 <br>
 <p><img align="right" src="https://github.com/periebm/periebm/blob/main/animation_500_kxa883sd.gif" alt="peri-code" width=40% height=40% /></p>
 
-- 📚 I’m currently studying Software Development (ReactJS, NodeJS, Typescript, SQL..) on Driven Education's Web Development Full Stack course.
+- 📚 I’m a Software Developer, building personal projects (ReactJS, NodeJS, Typescript, SQL..) for learning or just for fun.
 
-- ⚡ As for today I'm working as a Hardware Developer (Graduated in Electrical Engineering). My activities includes drawing PCBs, programming in C and building electronic circuits of all sorts.
+- ⚡ As for today I'm working as a Hardware Developer (Graduated in Electrical Engineering). My activities includes programming in C, drawing PCBs,  and building electronic circuits of all sorts.
 
 - 📫 Reach me in *periclesebmendes@gmail.com*
 
 <br>
 
 # 💻 Languages and Tools:
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/> <img src="https://img.icons8.com/office/48/000000/react.png" alt="react"/> <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> <img src="https://img.icons8.com/fluency/48/node-js.png" alt="nodeJS"/> <img height="43" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="mongoDB"/> <img src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreeSQL"/> <!-- <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> --> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="wordpress"/> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode"/> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/> <img src="https://img.icons8.com/office/48/000000/react.png" alt="react"/> <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> <img src="https://img.icons8.com/fluency/48/node-js.png" alt="nodeJS"/> <img height="43" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="mongoDB"/> <img src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreeSQL"/> <!-- <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/> --> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png" alt="wordpress"/> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode"/> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/> </a>
 
 
 <br>
