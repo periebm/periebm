@@ -3,9 +3,9 @@
 <br>
 <p><img align="right" src="https://github.com/periebm/periebm/blob/main/animation_500_kxa883sd.gif" alt="peri-code" width=40% height=40% /></p>
 
-- 📚 I’m a Software Developer, building personal projects (ReactJS, NodeJS, Typescript, SQL..) for learning or just for fun.
+- 📚 I’m a Software Developer, building personal projects (Typescript, NodeJS, SQL..) for learning or just for fun.
 
-- ⚡ As for today I'm working as a Hardware Developer (Graduated in Electrical Engineering). My activities includes programming in C, drawing PCBs,  and building electronic circuits of all sorts.
+- ⚡ As for today I'm working as a Hardware Developer (Graduated in Electrical Engineering). My activities includes coding microcontrollers in C, drawing PCBs,  and building electronic circuits of all sorts.
 
 - 📫 Reach me in *periclesebmendes@gmail.com*
 
