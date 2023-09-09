@@ -5,6 +5,8 @@
 
 - 📚 I’m a Software Developer, building personal projects (Typescript, NodeJS, SQL..) for learning or just for fun.
 
+- ☕ I enjoy solving problems and learning new tools to do so. The next language I want to learn is Java.
+
 - ⚡ As for today I'm working as a Hardware Developer (Graduated in Electrical Engineering). My activities includes coding microcontrollers in C, drawing PCBs,  and building and breaking electronic circuits of all sorts.
 
 - 📫 Reach me in *periclesebmendes@gmail.com*
