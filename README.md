@@ -9,6 +9,8 @@
 
 - ⚡ As for today I'm working as a Hardware Developer (Graduated in Electrical Engineering). My activities includes coding microcontrollers in C, drawing PCBs,  and building and breaking electronic circuits of all sorts.
 
+- 🎵 Besides all of that, in my freetime I love playing the guitar, playing with my dogs and gaming sometimes. 
+
 - 📫 Reach me in *periclesebmendes@gmail.com*
 
 <br>
