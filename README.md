@@ -7,7 +7,7 @@
 
 - ☕ I enjoy solving problems and learning new tools to do so.
 
-- ⚡ I used to workk as a Hardware Developer (Graduated in Electrical Engineering). Some of my activities included coding microcontrollers in C, drawing PCBs, and building and breaking electronic circuits of all sorts.
+- ⚡ I used to work as a Hardware Developer (Graduated in Electrical Engineering). Some of my activities included coding microcontrollers in C, drawing PCBs, and building and breaking electronic circuits of all sorts.
 
 - 💻 As for today I'm working as a Software Developer, mostly using Typescript, NodeJS, ReactJS, OracleDB and more...
 
