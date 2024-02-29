@@ -5,9 +5,11 @@
 
 - 📚 I’m a Software Developer, building personal projects (Typescript, NodeJS, SQL..) for learning or just for fun.
 
-- ☕ I enjoy solving problems and learning new tools to do so. The next language I want to learn is Java.
+- ☕ I enjoy solving problems and learning new tools to do so.
 
-- ⚡ As for today I'm working as a Hardware Developer (Graduated in Electrical Engineering). My activities includes coding microcontrollers in C, drawing PCBs,  and building and breaking electronic circuits of all sorts.
+- ⚡ I used to workk as a Hardware Developer (Graduated in Electrical Engineering). Some of my activities included coding microcontrollers in C, drawing PCBs, and building and breaking electronic circuits of all sorts.
+
+- 💻 As for today I'm working as a Software Developer, mostly using Typescript, NodeJS, ReactJS, OracleDB and more...
 
 - 🎵 Besides all of that, in my freetime I love playing the guitar, playing with my dogs and gaming sometimes. 
 
