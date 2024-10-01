@@ -1,5 +1,5 @@
 <h1 align="">Hi, I'm Péricles Mendes</h1>
-<h3 align="">Looking to work exclusively as a Software Developer, currently working as a Hardware Developer.</h3>
+<h3 align="">Currently working as a Software Developer.</h3>
 <br>
 <p><img align="right" src="https://github.com/periebm/periebm/blob/main/animation_500_kxa883sd.gif" alt="peri-code" width=40% height=40% /></p>
 
